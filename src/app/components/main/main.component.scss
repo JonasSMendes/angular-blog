@@ -1,3 +1,4 @@
+
 .logo-title{
     width: 1250px;
     height: 150px;
@@ -5,13 +6,24 @@
     align-items: center;
     justify-content: center;
     margin: auto;
+   
+    
+    
 
 
     h1{
         font-size: 100px;
         font-family: "Boldonse", sans-serif;
         text-transform: uppercase;
-        letter-spacing: 10px;
+        letter-spacing: 16px;
+        text-align: center;
      
     }
+}
+
+.section-card-player-info-page{
+    width: 1250px;
+    margin: auto;
+    display: flex;
+
 }
