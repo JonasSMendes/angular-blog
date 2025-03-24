@@ -25,5 +25,13 @@
     width: 1250px;
     margin: auto;
     display: flex;
+    justify-content: space-between;
+
+    .card-players{
+        display: flex;
+        align-items: center;
+        flex-direction: row;
+        justify-content: center;
+    }
 
 }

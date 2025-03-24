@@ -10,4 +10,9 @@ import { Component, Input } from '@angular/core';
 export class MainCardComponent {
 
   @Input() backgroundImage: string = "";
+  @Input() title: string = "";
+  @Input() infoTitle: string = "";
+  @Input() name: string = "";
+  @Input() ageAndJob: string = "";
+
 }
